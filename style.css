@@ -13,7 +13,7 @@ h1 {
 
 p {
     font-size: 20px;
-    color: rgb(32, 218, 131);
+    color: brown;
 }
 
 
@@ -54,4 +54,8 @@ p {
 #image-size {
     width: 80%;
     height: 77%;
+}
+
+.center {
+    text-align: center;
 }
